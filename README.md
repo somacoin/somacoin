@@ -1,7 +1,7 @@
-Somacoin 0.1 BETA
-====================
+SOMA 1.8.8.8 BETA
+=================
 
-Copyright (c) 2009-2014 Bitcoin Developers, Quarkcoin Developers
+Copyright (c) Bitcoin Developers, Quarkcoin Developers
 Copyright (c) 2014 Somacoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
