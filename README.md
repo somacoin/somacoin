@@ -1,8 +1,9 @@
 SOMA 1.8.8.8 BETA
 =================
 
-Copyright (c) Bitcoin Developers, Quarkcoin Developers
 Copyright (c) 2014 Somacoin Developers
+
+Copyright (c) Bitcoin Developers, Quarkcoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -13,9 +14,8 @@ sphlib 3.0 by Thomas Pornin.
 
 Intro
 ---------------------
-Somacoin is a rare and free open source peer-to-peer electronic cash system that 
-is completely decentralized, without the need for a central server or trusted
-parties.  Users hold the crypto keys to their own money and transact directly
+Somacoin is a rare and free open source CPU-minable peer-to-peer electronic cash 
+system that is completely decentralized, without the need for a central server or trustedparties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
 
 
